@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity"
+    android:background="#F8EEEC">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="0dp"
+        android:layout_height="397dp"
+        android:background="#F8EEEC"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="394dp"
+            android:background="#F8EEEC"
+            app:srcCompat="@drawable/top_background1" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="385dp"
+        android:layout_height="250dp"
+        android:layout_marginTop="1dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        app:layout_constraintVertical_bias="0.0">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="121dp"
+            android:text="Welcome\nBack"
+            android:textColor="#EA6D35"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/editTextText"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:drawableLeft="@drawable/email"
+            android:drawablePadding="10dp"
+            android:ems="10"
+            android:hint="Email"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/editTextTextPassword"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:drawableLeft="@drawable/password"
+            android:drawablePadding="10dp"
+            android:ems="10"
+            android:hint="Password"
+            android:inputType="textPassword" />
+
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="#F8EEEC"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.955"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout2"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/btn_arrow1"
+        android:contentDescription="Nút mũi tên" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Are you new user? Register"
+        android:textColor="#3B608C"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout2"
+        app:layout_constraintVertical_bias="0.942" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="120dp"
+        android:layout_height="50dp"
+        android:background="@drawable/rounded_btn"
+        android:backgroundTint="@null"
+        android:text="Facebook"
+        android:textAllCaps="false"
+        android:textColor="#3B608C"
+        android:drawableRight="@drawable/facebook"
+        android:paddingRight="10dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton3"
+        app:layout_constraintHorizontal_bias="0.449"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout2"
+        app:layout_constraintVertical_bias="0.782" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="120dp"
+        android:layout_height="50dp"
+        android:background="@drawable/rounded_btn"
+        android:backgroundTint="@null"
+        android:text="Google"
+        android:textAllCaps="false"
+        android:textColor="#3B608C"
+        android:drawableRight="@drawable/google"
+        android:paddingRight="10dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.707"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout2"
+        app:layout_constraintVertical_bias="0.782" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

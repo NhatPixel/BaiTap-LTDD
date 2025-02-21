@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\drawable_top_background1.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\drawable\\top_background1.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\drawable_btn_arrow1.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\drawable\\btn_arrow1.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.baitaploginsignup.app-debug-31:/layout_activity_login.xml.flat",
+        "source": "com.example.baitaploginsignup.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.baitaploginsignup.app-debug-31:/drawable_btn_arrow2.png.flat",
+        "source": "com.example.baitaploginsignup.app-main-33:/drawable/btn_arrow2.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\drawable_rounded_btn.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\drawable\\rounded_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\drawable_email.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\drawable\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\drawable_password.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\drawable\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.baitaploginsignup.app-debug-31:/drawable_google.png.flat",
+        "source": "com.example.baitaploginsignup.app-main-33:/drawable/google.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.baitaploginsignup.app-debug-31:/drawable_facebook.png.flat",
+        "source": "com.example.baitaploginsignup.app-main-33:/drawable/facebook.png"
+    },
+    {
+        "merged": "com.example.baitaploginsignup.app-debug-31:/drawable_name.png.flat",
+        "source": "com.example.baitaploginsignup.app-main-33:/drawable/name.png"
+    },
+    {
+        "merged": "com.example.baitaploginsignup.app-debug-31:/layout_activity_signup.xml.flat",
+        "source": "com.example.baitaploginsignup.app-main-33:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-debug-31:\\drawable_google.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.10.2\\com.example.baitaploginsignup.app-main-33:\\drawable\\google.png"
+    }
+]

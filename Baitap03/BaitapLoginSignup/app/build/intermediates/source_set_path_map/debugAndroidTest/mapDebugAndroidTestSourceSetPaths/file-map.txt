@@ -1,0 +1,5 @@
+com.example.baitaploginsignup.test.app-core-1.6.1-0 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\76b9e4cd130a6b16bf7d3ea8d36a8595\transformed\core-1.6.1\res
+com.example.baitaploginsignup.test.app-androidTest-1 E:\HocDH\Ki6\LTDD\BaiTap\Baitap03\BaitapLoginSignup\app\build\generated\res\resValues\androidTest\debug
+com.example.baitaploginsignup.test.app-mergeDebugAndroidTestResources-2 E:\HocDH\Ki6\LTDD\BaiTap\Baitap03\BaitapLoginSignup\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.baitaploginsignup.test.app-mergeDebugAndroidTestResources-3 E:\HocDH\Ki6\LTDD\BaiTap\Baitap03\BaitapLoginSignup\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.baitaploginsignup.test.app-debugAndroidTest-4 E:\HocDH\Ki6\LTDD\BaiTap\Baitap03\BaitapLoginSignup\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

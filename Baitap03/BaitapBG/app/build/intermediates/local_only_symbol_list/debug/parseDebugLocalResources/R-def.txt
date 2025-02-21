@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable bg01
+drawable bg02
+drawable bg03
+drawable bg04
+drawable bg05
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable nhat
+id backgroundLayout
+id changeBackgroundSwitch
+id circleImageView
+id convertButton
+id editText
+id generateButton
+id main
+id resultTextView
+id textView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Baitap01
+style Theme.Baitap01
+xml backup_rules
+xml data_extraction_rules
