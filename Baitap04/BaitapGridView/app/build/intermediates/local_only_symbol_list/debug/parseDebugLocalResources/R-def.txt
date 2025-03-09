@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable c
+drawable cplusplus
+drawable cshape
+drawable css
+drawable html
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable java
+drawable php
+drawable python
+id gridView1
+id imagePic
+id main
+id textDesc
+id textName
+layout activity_main
+layout row_monhoc
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.BaitapGridView
+style Theme.BaitapGridView
+xml backup_rules
+xml data_extraction_rules

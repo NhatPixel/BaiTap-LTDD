@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+anim item_animation
+anim layout_animation
+color black
+color white
+drawable c
+drawable cplusplus
+drawable cshape
+drawable css
+drawable html
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable java
+drawable php
+drawable python
+id imagePic
+id main
+id recyclerView1
+id textDesc
+id textName
+layout activity_main
+layout row_monhoc
+layout row_monhoc_no_image
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.BaitapRecycleView
+style Theme.BaitapRecycleView
+xml backup_rules
+xml data_extraction_rules
