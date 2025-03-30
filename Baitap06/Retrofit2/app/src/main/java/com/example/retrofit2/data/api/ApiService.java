@@ -1,6 +1,6 @@
 package com.example.retrofit2.data.api;
 
-import com.example.retrofit2.data.module.Category;
+import com.example.retrofit2.data.model.Category;
 
 import java.util.List;
 import retrofit2.Call;

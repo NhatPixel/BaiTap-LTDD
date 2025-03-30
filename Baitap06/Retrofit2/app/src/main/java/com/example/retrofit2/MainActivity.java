@@ -13,7 +13,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.retrofit2.data.api.ApiService;
 import com.example.retrofit2.data.api.RetrofitClient;
-import com.example.retrofit2.data.module.Category;
+import com.example.retrofit2.data.model.Category;
 import com.example.retrofit2.ui.adapter.CategoryAdapter;
 
 import java.util.List;
