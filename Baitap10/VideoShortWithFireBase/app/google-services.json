@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97569152192",
+    "project_id": "ltdd-4f984",
+    "storage_bucket": "ltdd-4f984.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97569152192:android:3fe126154052939d68a125",
+        "android_client_info": {
+          "package_name": "com.ltdd.nhat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMHHUej8jAKM03M0kyXBtcKYzIeSTuLFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
